@@ -1,4 +1,3 @@
-from django import forms
 import datetime
 
 class DateForm(forms.Form):
